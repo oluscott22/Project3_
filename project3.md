@@ -90,7 +90,9 @@
 
 ### **Install Postman**
 
-![Postman](./images/postman.png)
+![Post](./images/post.png)
+
+![GET](./images/GET.png)
 
 
 
@@ -100,9 +102,44 @@
 
 ![react_app](./images/react_app.png)
 
+
+`npm install concurrently --save-dev`
+
+![conconrently](./images/concorrently.png)
+
+`npm install nodemon --save-dev`
+
+![noodemon](./images/nodemon.png)
+
+open the package.json file
+
+![package.json](./images/package.1json.png)
+
+
+`npm run dev`
+
+![Database_connected](./images/database_connected.png)
+
+
 `cd src/components`
 
 `vi ListTodo.js`
 
 ![listTodo](./images/listtodoo.1js.png)
-xxs
+
+
+#### **FRONTEND CREATION**
+
+`npx create-react-app client`
+
+
+`npm install concurrently --save-dev`
+
+`npm install nodemon --save-dev`
+
+`npm run dev`
+
+![Database_up_runnung](./images/Successful.png)
+
+
+git

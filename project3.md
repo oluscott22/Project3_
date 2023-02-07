@@ -142,4 +142,21 @@ open the package.json file
 ![Database_up_runnung](./images/Successful.png)
 
 
-git
+[MONGODB](https://www.mongodb.com/)
+
+[Express](https://expressjs.com/)
+
+[React](https://reactjs.org/)
+
+[Node.js](https://nodejs.org/en/)
+
+[DBMS](https://www.alooma.com/blog/types-of-modern-databases)
+
+[Webapplication](https://en.wikipedia.org/wiki/Web_framework)
+
+[javascript](https://www.w3schools.com/js/js_intro.asp)
+
+[Restful](https://restfulapi.net/)
+
+[CSS](https://en.wikipedia.org/wiki/CSS)
+
